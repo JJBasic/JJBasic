@@ -1,6 +1,5 @@
     /* Hi, im @JJBasic
-    I am currently learning Java through the AP program
-    I enjoy anything computer related including game developement!
+    I love hardware development and have used Java, C++, C#, Python, MicroPython, Javascript, and more languages in my projects. 
     I will post any code dumps here!
     :)
     */
